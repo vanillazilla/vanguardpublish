@@ -78,16 +78,16 @@
   ],
   "artifacts": [
     {
-      "hash": "7b5d7d14e27c9d238e2a1c9eeb9edabcfeb9bde711a9e05e4ffd9aa8ffa36f74",
+      "hash": "7f693bdd31138f75afc06a323ccc6fe44e5c135d962abaad8f8a9a6c90ae32ca",
       "name": "game-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/vanillazilla/vanguardpublish/master/normal/repo/game-0.0.1.jar",
-      "size": 6343747
+      "size": 6839956
     },
     {
-      "hash": "4002ad35a70f62734250a2889a6c06663619fd1cde5c2dc6bc5bcf2cd1cc0487",
+      "hash": "24b35e4d2f41c9ee828a5073326d4634e4fc32468d60c031641b979cec5c4a14",
       "name": "runelite-0.0.1.jar",
       "path": "https://raw.githubusercontent.com/vanillazilla/vanguardpublish/master/normal/repo/runelite-0.0.1.jar",
-      "size": 12974528
+      "size": 12974620
     },
     {
       "hash": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
@@ -688,8 +688,8 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-0.0.1.jar": "7b5d7d14e27c9d238e2a1c9eeb9edabcfeb9bde711a9e05e4ffd9aa8ffa36f74",
-    "runelite-0.0.1.jar": "4002ad35a70f62734250a2889a6c06663619fd1cde5c2dc6bc5bcf2cd1cc0487",
+    "game-0.0.1.jar": "7f693bdd31138f75afc06a323ccc6fe44e5c135d962abaad8f8a9a6c90ae32ca",
+    "runelite-0.0.1.jar": "24b35e4d2f41c9ee828a5073326d4634e4fc32468d60c031641b979cec5c4a14",
     "kotlin-stdlib-jdk8-1.8.22.jar": "4198b0eaf090a4f25b6f7e5a59581f4314ba8c9f6cd1d13ee9d348e65ed8f707",
     "kotlin-stdlib-jdk7-1.8.22.jar": "055f5cb24287fa106100995a7b47ab92126b81e832e875f5fa2cf0bd55693d0b",
     "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
